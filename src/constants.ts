@@ -1,6 +1,6 @@
 import { Label } from './types.js';
 
-export const DELETE = '3lbhagguhps27';
+export const DELETE = '3lbhwkmstzc26';
 export const LABEL_LIMIT = 1;
 export const LABELS: Label[] = [
   {
