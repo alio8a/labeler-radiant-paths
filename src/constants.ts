@@ -7,7 +7,8 @@ export const LABELS: Label[] = [
     rkey: '3lbhwklvjfd2p',
     identifier: 'windrunner-path',
     locales: [
-      { lang: 'en', name: 'Windrunner', description: 'Windrunner'},  
+      { lang: 'en', name: 'Windrunner', description: 'Windrunner'},
+      { lang: 'es', name: 'Windrunner', description: 'Windrunner'}
     ]
   },
   {
@@ -15,13 +16,15 @@ export const LABELS: Label[] = [
     identifier: 'skybreaker-path',
     locales: [
       { lang: 'en', name: 'Skybreaker', description: 'Skybreaker'},  
+      { lang: 'es', name: 'Skybreaker', description: 'Skybreaker'}, 
     ]
   },
   {
     rkey: '3lbhwkm452u25',
     identifier: 'dustbringer-path',
     locales: [
-      { lang: 'en', name: 'Dustbringer', description: 'Dustbringer'},  
+      { lang: 'en', name: 'Dustbringer', description: 'Dustbringer'},
+      { lang: 'es', name: 'Dustbringer', description: 'Dustbringer'}, 
     ]
   },
   {
@@ -29,13 +32,15 @@ export const LABELS: Label[] = [
     identifier: 'edgedancer-path',
     locales: [
       { lang: 'en', name: 'Edgedancer', description: 'Edgedancer'},  
+      { lang: 'es', name: 'Edgedancer', description: 'Edgedancer'},  
     ]
   },
   {
     rkey: '3lbhwkmcjqv2a',
     identifier: 'truthwatcher-path',
     locales: [
-      { lang: 'en', name: 'Truthwatcher', description: 'Truthwatcher'},  
+      { lang: 'en', name: 'Truthwatcher', description: 'Truthwatcher'}, 
+      { lang: 'es', name: 'Truthwatcher', description: 'Truthwatcher'},  
     ]
   },
   {
@@ -43,6 +48,7 @@ export const LABELS: Label[] = [
     identifier: 'lightweaver-path',
     locales: [
       { lang: 'en', name: 'Lightweaver', description: 'Lightweaver'},  
+      { lang: 'es', name: 'Lightweaver', description: 'Lightweaver'},  
     ]
   },
   {
@@ -50,6 +56,7 @@ export const LABELS: Label[] = [
     identifier: 'elsecaller-path',
     locales: [
       { lang: 'en', name: 'Elsecaller', description: 'Elsecaller'},  
+      { lang: 'es', name: 'Elsecaller', description: 'Elsecaller'},  
     ]
   },
   {
@@ -57,13 +64,15 @@ export const LABELS: Label[] = [
     identifier: 'willshaper-path',
     locales: [
       { lang: 'en', name: 'Willshaper', description: 'Willshaper'},  
+      { lang: 'es', name: 'Willshaper', description: 'Willshaper'},  
     ]
   },
   {
     rkey: '3lbhwkmpefx2f',
     identifier: 'stoneward-path',
     locales: [
-      { lang: 'en', name: 'Stoneward', description: 'Stoneward'},  
+      { lang: 'en', name: 'Stoneward', description: 'Stoneward'}, 
+      { lang: 'es', name: 'Stoneward', description: 'Stoneward'},  
     ]
   },
 ];
