@@ -75,4 +75,12 @@ export const LABELS: Label[] = [
       { lang: 'es', name: 'Stoneward', description: 'Stoneward'},  
     ]
   },
+  {
+    rkey: '',
+    identifier: 'bondsmith-path',
+    locales: [
+      { lang: 'en', name: 'Bondsmith', description: 'Bondsmith'}, 
+      { lang: 'es', name: 'Bondsmith', description: 'Bondsmith'},  
+    ]
+  },
 ];
